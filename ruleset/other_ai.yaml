@@ -1,0 +1,23 @@
+# NAME: Other AI Services
+# TOTAL: 20
+payload:
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-KEYWORD,perplexity
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-KEYWORD,copilot
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-KEYWORD,grok
+  - DOMAIN-SUFFIX,character.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-KEYWORD,midjourney
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,runwayml.com
+  - DOMAIN-SUFFIX,ai.meta.com
+  - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,copy.ai

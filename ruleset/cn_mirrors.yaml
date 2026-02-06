@@ -1,0 +1,27 @@
+# NAME: China Mirrors
+# TOTAL: 15
+payload:
+  # Python 镜像
+  - DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
+  - DOMAIN-SUFFIX,mirrors.aliyun.com
+  - DOMAIN-SUFFIX,mirrors.cloud.tencent.com
+  - DOMAIN-SUFFIX,mirrors.huaweicloud.com
+  - DOMAIN-SUFFIX,mirrors.ustc.edu.cn
+  - DOMAIN-SUFFIX,pypi.douban.com
+  
+  # NPM 镜像
+  - DOMAIN-SUFFIX,npmmirror.com
+  - DOMAIN-SUFFIX,npm.taobao.org
+  
+  # Docker 镜像
+  - DOMAIN-SUFFIX,mirror.ccs.tencentyun.com
+  - DOMAIN-SUFFIX,docker.mirrors.ustc.edu.cn
+  
+  # Maven 镜像
+  - DOMAIN-SUFFIX,maven.aliyun.com
+  
+  # Ubuntu/Debian 镜像
+  - DOMAIN-SUFFIX,mirrors.tuna.tsinghua.edu.cn
+  - DOMAIN-SUFFIX,mirrors.163.com
+  - DOMAIN-SUFFIX,mirrors.sohu.com
+  - DOMAIN-SUFFIX,mirrors.cloud.aliyuncs.com

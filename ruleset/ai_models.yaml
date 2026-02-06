@@ -1,0 +1,23 @@
+# NAME: AI Model Platforms
+# TOTAL: 20
+payload:
+  - DOMAIN,huggingface.co
+  - DOMAIN,hf.co
+  - DOMAIN,cdn-lfs.huggingface.co
+  - DOMAIN,cdn-lfs-us-1.huggingface.co
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-KEYWORD,huggingface
+  - DOMAIN,civitai.com
+  - DOMAIN,image.civitai.com
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,civitai.green
+  - DOMAIN-KEYWORD,civitai
+  - DOMAIN,github.com
+  - DOMAIN,api.github.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,replicate.com

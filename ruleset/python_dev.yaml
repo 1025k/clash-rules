@@ -1,0 +1,13 @@
+# NAME: Python Development
+# TOTAL: 10
+payload:
+  - DOMAIN,pypi.org
+  - DOMAIN,pypi.python.org
+  - DOMAIN,files.pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-KEYWORD,pypi
+  - DOMAIN,anaconda.org
+  - DOMAIN-SUFFIX,anaconda.org
+  - DOMAIN-SUFFIX,conda.io
+  - DOMAIN-KEYWORD,conda

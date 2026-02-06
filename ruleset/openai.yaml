@@ -1,0 +1,17 @@
+# NAME: OpenAI
+# TOTAL: 15
+payload:
+  - DOMAIN,chat.openai.com
+  - DOMAIN,chatgpt.com
+  - DOMAIN,api.openai.com
+  - DOMAIN,platform.openai.com
+  - DOMAIN,cdn.oaistatic.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,gpt-4

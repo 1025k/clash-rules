@@ -1,0 +1,7 @@
+payload:
+  # 🔥 只需要这 5 条
+  - DOMAIN-SUFFIX,google           # 覆盖 .google gTLD
+  - DOMAIN-SUFFIX,google.com       # 覆盖 .google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleusercontent.com

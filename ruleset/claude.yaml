@@ -1,0 +1,10 @@
+# NAME: Claude AI
+# TOTAL: 7
+payload:
+  - DOMAIN,claude.ai
+  - DOMAIN,api.anthropic.com
+  - DOMAIN,console.anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,anthropic
