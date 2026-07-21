@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN,apis.google.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,ogs.google.com
+  - DOMAIN,www.google.com
+  - DOMAIN,ssl.gstatic.com
+  - DOMAIN,www.gstatic.com
+  - DOMAIN,lh3.google.com
+  - DOMAIN,lh3.googleusercontent.com
+  - DOMAIN,lh5.googleusercontent.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
