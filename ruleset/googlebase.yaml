@@ -1,6 +1,4 @@
 payload:
-! === 补充 Google 全球服务与分析 (解决加载迟钝) ===
-
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
