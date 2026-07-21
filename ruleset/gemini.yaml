@@ -11,6 +11,3 @@ payload:
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,lh3.googleusercontent.com
   - DOMAIN,lh5.googleusercontent.com
-
-  - DOMAIN-SUFFIX,assistant.google.com
-  - DOMAIN-SUFFIX,embeddedassistant.googleapis.com
