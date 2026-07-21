@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,play.google.com
-  - DOMAIN-SUFFIX,play.googleapis.com
+  - DOMAIN,play.google.com
+  - DOMAIN,play.googleapis.com
   - DOMAIN-SUFFIX,android.googleapis.com
   - DOMAIN-SUFFIX,android.clients.google.com
   - DOMAIN-SUFFIX,fcm.googleapis.com
@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN,app-measurement.com
-  - DOMAIN-SUFFIX,time.google.com
+  - DOMAIN,time.google.com
