@@ -1,0 +1,11 @@
+prepend-rules:
+  - DOMAIN,gemini.google.com,✨ Gemini&Labs
+  - DOMAIN-SUFFIX,gemini.google,✨ Gemini&Labs
+  - DOMAIN,generativelanguage.googleapis.com,✨ Gemini&Labs
+  - DOMAIN,optimizationguide-pa.googleapis.com,✨ Gemini&Labs
+  - DOMAIN,apis.google.com,✨ Gemini&Labs
+  - DOMAIN,www.googleapis.com,✨ Gemini&Labs
+  - DOMAIN,www.gstatic.com,✨ Gemini&Labs
+  - DOMAIN,ssl.gstatic.com,✨ Gemini&Labs
+  - DOMAIN,lh3.googleusercontent.com,✨ Gemini&Labs
+  - DOMAIN,lh5.googleusercontent.com,✨ Gemini&Labs
