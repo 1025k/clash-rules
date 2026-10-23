@@ -1,0 +1,26 @@
+# YouTube website / Music / short links
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtubekids.com
+
+# Video delivery
+DOMAIN-SUFFIX,googlevideo.com
+
+# Images and static resources
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN,yt3.googleusercontent.com
+
+# YouTube API
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+
+# Related Google-hosted endpoints
+DOMAIN,video.google.com
+DOMAIN,youtube-ui.l.google.com
+DOMAIN,wide-youtube.l.google.com
+DOMAIN,ytimg.l.google.com
+DOMAIN,yt-video-upload.l.google.com
