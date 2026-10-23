@@ -1,19 +1,98 @@
-# Gemini 专用页面
+# Google AI ecosystem
+# Format: classical / text
+# Shared Google login and generic static resources remain in google.list.
+
+# ==================================================
+# Gemini
+# ==================================================
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.google
-
-# Gemini 专用静态资源
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
 
-# Gemini 相关接口
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN,generativelanguage.googleapis.com
 
-# 保留原配置中的补充接口
+# Supplemental entries retained from the original configuration
 DOMAIN,jnn-pa.googleapis.com
 DOMAIN,waa-pa.clients6.google.com
-DOMAIN,optimizationguide-pa.googleapis.com
+
+# ==================================================
+# Google AI Studio / Gemini API
+# ==================================================
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+
+# ==================================================
+# Google Labs / Flow / related AI interfaces
+# ==================================================
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,flow.google
+DOMAIN-SUFFIX,flow.google.com
+
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+
+# ==================================================
+# Opal
+# ==================================================
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+DOMAIN-SUFFIX,opal.withgoogle.com
+
+# ==================================================
+# NotebookLM
+# ==================================================
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebook.google
+DOMAIN-SUFFIX,notebook.google.com
+
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+
+# ==================================================
+# Jules
+# ==================================================
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# ==================================================
+# Stitch
+# ==================================================
+DOMAIN-SUFFIX,stitch.withgoogle.com
+
+# ==================================================
+# Developer AI services / Gemini Code Assist
+# ==================================================
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# ==================================================
+# Antigravity
+# ==================================================
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+
+# ==================================================
+# Google AI / DeepMind information portals
+# ==================================================
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
