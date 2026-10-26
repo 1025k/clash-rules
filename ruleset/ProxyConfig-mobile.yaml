@@ -136,7 +136,7 @@ NodeParam: &NodeParam
 Select: &Select
   type: select
   disable-udp: false
-  hidden: false
+  hidden: true
   include-all: true
   use: [订阅节点]
 
@@ -150,7 +150,7 @@ UrlTest: &UrlTest
   max-failed-times: 3
   lazy: true
   disable-udp: false
-  hidden: false
+  hidden: true
   include-all: true
   use: [订阅节点]
 
