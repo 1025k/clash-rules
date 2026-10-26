@@ -137,8 +137,8 @@ proxy-groups:
   # 应用分组
   - {name: ✈️ Telegram, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png}
   - {name: 🤖 AIGC, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png}
-  - {name: 🍎 AppleService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Apple.png}
-  - {name: Ⓜ️ MicrosoftService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png}
+  - {name: 🍎 AppleService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, ☛ - 直连], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Apple.png}
+  - {name: Ⓜ️ MicrosoftService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, ☛ - 直连], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png}
   - {name: 📺 GlobalMedia, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png}
   - {name: ✨ Gemini&Labs, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png}
   - {name: 🔍 Google&Play, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png}
