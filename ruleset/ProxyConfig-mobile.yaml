@@ -136,7 +136,7 @@ NodeParam: &NodeParam
 Select: &Select
   type: select
   disable-udp: false
-  hidden: true
+  hidden: false
   include-all: true
   use: [订阅节点]
 
