@@ -180,30 +180,31 @@ proxy-groups:
       - 🇺🇸 - 美国M
       - 🌐 - 其他M
       - DIRECT
-    icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
+    icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Static.png
 
   # 应用分组
-  - {name: ✈️ Telegram, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png}
-  - {name: 🤖 AIGC, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png}
-  - {name: 🍎 AppleService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Apple.png}
-  - {name: Ⓜ️ MicrosoftService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Microsoft.png}
-  - {name: 📺 GlobalMedia, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png}
-  - {name: ✨ Gemini&Labs, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png}
-  - {name: 🔍 Google&Play, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png}
-  - {name: 📺 Youtube, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png}
+  - {name: ✈️ Telegram, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Telegram.png}
+  - {name: 🤖 AIGC, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/OpenAI.png}
+  - {name: 🍎 AppleService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Apple.png}
+  - {name: Ⓜ️ MicrosoftService, type: select, proxies: [🎯 节点选择, 🇭🇰 - 香港A, 🇺🇸 - 美国A, DIRECT], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Microsoft.png}
+  - {name: 📺 GlobalMedia, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Streaming.png}
+  - {name: ✨ Gemini&Labs, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Google.png}
+  - {name: 🔍 Google&Play, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Google.png}
+  - {name: 📺 Youtube, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Streaming.png}
+  - {name: 🎵 TikTok, type: select, proxies: [🎯 节点选择, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🇺🇸 - 美国M, 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/TikTok.png}
 
   # 地区分组
-  - {name: 🇭🇰 - 香港A, <<: *UrlTest, filter: *FilterHK, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png}
-  - {name: 🇭🇰 - 香港M, <<: *Select, filter: *FilterHK, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png}
-  - {name: 🇹🇼 - 台湾A, <<: *UrlTest, filter: *FilterTW, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png}
-  - {name: 🇹🇼 - 台湾M, <<: *Select, filter: *FilterTW, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png}
-  - {name: 🇯🇵 - 日本A, <<: *UrlTest, filter: *FilterJP, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png}
-  - {name: 🇯🇵 - 日本M, <<: *Select, filter: *FilterJP, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png}
-  - {name: 🇸🇬 - 新加坡A, <<: *UrlTest, filter: *FilterSG, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png}
-  - {name: 🇸🇬 - 新加坡M, <<: *Select, filter: *FilterSG, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png}
-  - {name: 🇺🇸 - 美国A, <<: *UrlTest, filter: *FilterUS, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png}
-  - {name: 🇺🇸 - 美国M, <<: *Select, filter: *FilterUS, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png}
-  - {name: 🌐 - 其他M, <<: *Select, filter: *FilterOthers, icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/XD.png}
+  - {name: 🇭🇰 - 香港A, <<: *UrlTest, filter: *FilterHK, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/HK.png}
+  - {name: 🇭🇰 - 香港M, <<: *Select, filter: *FilterHK, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/HK.png}
+  - {name: 🇹🇼 - 台湾A, <<: *UrlTest, filter: *FilterTW, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/TW.png}
+  - {name: 🇹🇼 - 台湾M, <<: *Select, filter: *FilterTW, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/TW.png}
+  - {name: 🇯🇵 - 日本A, <<: *UrlTest, filter: *FilterJP, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/JP.png}
+  - {name: 🇯🇵 - 日本M, <<: *Select, filter: *FilterJP, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/JP.png}
+  - {name: 🇸🇬 - 新加坡A, <<: *UrlTest, filter: *FilterSG, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/SG.png}
+  - {name: 🇸🇬 - 新加坡M, <<: *Select, filter: *FilterSG, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/SG.png}
+  - {name: 🇺🇸 - 美国A, <<: *UrlTest, filter: *FilterUS, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/US.png}
+  - {name: 🇺🇸 - 美国M, <<: *Select, filter: *FilterUS, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/US.png}
+  - {name: 🌐 - 其他M, <<: *Select, filter: *FilterOthers, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/XD.png}
 
 # ==================== 订阅规则模板 ====================
 RuleSet_classical: &RuleSet_classical {type: http, behavior: classical, interval: 43200, format: text, proxy: 🎯 节点选择}
