@@ -191,7 +191,7 @@ proxy-groups:
   - {name: ✨ Gemini&Labs, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Google.png}
   - {name: 🔍 Google&Play, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港M, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Google.png}
   - {name: 📺 Youtube, type: select, proxies: [🎯 节点选择, 🇺🇸 - 美国M, 🇭🇰 - 香港A, 🇯🇵 - 日本A, 🇸🇬 - 新加坡A, 🇺🇸 - 美国A], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/Streaming.png}
-  - {name: 🎵 TikTok, type: select, proxies: [🎯 节点选择, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🇺🇸 - 美国M, 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/TikTok.png}
+  - {name: 🎵 TikTok, type: select, proxies: [🎯 节点选择, 🇹🇼 - 台湾M, 🇯🇵 - 日本M, 🇸🇬 - 新加坡M, 🇺🇸 - 美国M, 🌐 - 其他M], icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/TikTok.png}
 
   # 地区分组
   - {name: 🇭🇰 - 香港A, <<: *UrlTest, filter: *FilterHK, icon: https://cdn.jsdelivr.net/gh/Orz-3/mini/Color/HK.png}
