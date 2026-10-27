@@ -419,12 +419,12 @@ rules:
 
   ### 3. 海外核心高频服务
   - RULE-SET,telegram_non_ip,✈️ Telegram
-  - RULE-SET,ai_non_ip,🤖 AIGC
   - RULE-SET,youtube,📺 GlobalMedia
   - RULE-SET,gemini,✨ Gemini&Labs
   - RULE-SET,googleplay,🔍 Google&Play
   - RULE-SET,stream_non_ip,📺 GlobalMedia
   - RULE-SET,googlebase,🔍 Google&Play
+  - RULE-SET,ai_non_ip,🤖 AIGC
 
   ### 4. CDN 加速与特定直连
   - RULE-SET,cdn_domainset,🎯 节点选择
